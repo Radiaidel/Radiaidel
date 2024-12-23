@@ -1,35 +1,64 @@
-<h1 align="center">Hello 👋! I'm IDELKADI RADIA</h1> <h2 align="center">Passionate Java & Angular Developer from Morocco</h2> <br/>
-<br/>
+<div align="center">
 
-# 💻 Tech Stack :
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" /></a>
-<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="40" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" alt="GitHub" height="40" /></a>
-<a href="https://www.junit.org" target="_blank"><img style="margin: 10px" src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" height="40" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;I'm+Radia+Idelkadi;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+---
+Java/Angular Developer at YouCode | Full Stack Developer | Problem Solver | Entrepreneurial-Minded
+  
+[![](https://komarev.com/ghpvc/?username=Radiaidel)](https://github.com/Radiaidel)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/radia-idelkadi)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=007EC6&labelColor=555555&logo=gmail&logoColor=f5f7fe)](mailto:idelkadiradia@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+  
 </div>
 
-## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=RadiaIdel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+
+![frontend](https://img.shields.io/static/v1?label=&message=frontend:&color=111&style=flat-square)
+![react](https://img.shields.io/static/v1?logo=react&label=&message=React.js&color=36465D&logoColor=AAA&style=flat-square)
+![angular](https://img.shields.io/static/v1?logo=angular&label=&message=Angular&color=36465D&logoColor=AAA&style=flat-square)
+![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript%20ES6%2B&color=36465D&logoColor=AAA&style=flat-square)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![backend](https://img.shields.io/static/v1?label=&message=backend:&color=111&style=flat-square)
+![java](https://img.shields.io/static/v1?logo=java&label=&message=Java%208%2B&color=36465D&logoColor=AAA&style=flat-square)
+![spring](https://img.shields.io/static/v1?logo=spring&label=&message=Spring%20Boot&color=36465D&logoColor=AAA&style=flat-square)
+![spring](https://img.shields.io/static/v1?logo=spring&label=&message=Spring%20Security&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![databases](https://img.shields.io/static/v1?label=&message=databases:&color=111&style=flat-square)
+![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square)
+![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=MySQL&color=36465D&logoColor=AAA&style=flat-square)
+![mongodb](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDB&color=36465D&logoColor=AAA&style=flat-square)
+![hibernate](https://img.shields.io/static/v1?logo=hibernate&label=&message=Hibernate&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
+![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Postman&color=36465D&logoColor=AAA&style=flat-square)
+![swagger](https://img.shields.io/static/v1?logo=swagger&label=&message=Swagger&color=36465D&logoColor=AAA&style=flat-square)
+![jira](https://img.shields.io/static/v1?logo=jira&label=&message=JIRA&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![devops](https://img.shields.io/static/v1?label=&message=devops:&color=111&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat-square)
+![jenkins](https://img.shields.io/static/v1?logo=jenkins&label=&message=Jenkins&color=36465D&logoColor=AAA&style=flat-square)
+![githubactions](https://img.shields.io/static/v1?logo=githubactions&label=&message=Github%20Actions&color=36465D&logoColor=AAA&style=flat-square)
 
 
-# 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=RadiaIdel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RadiaIdel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadiaIdel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary> ✖️ Click to See More ✖️</summary>
+  <br/>  
+  
+  ### &#x1f4c8; GitHub Stats
+  
+<p align="center" >
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radiaidel&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,html,css,tsql,hack)](https://github.com/Radiaidel) <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=Radiaidel&theme=tokyonight&hide_border=true&background=1F222E" />
+  
+</p>
+  
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+</details>
+ 
+  
+</div>
 
-## 📬 Contact Me:
-- **Email :** idelkadiradia@gmail.com
-- **LinkedIn :** [Radia Idelkadi](https://www.linkedin.com/in/radia-idelkadi)
-- **Téléphone :** +212 643565089
+---
