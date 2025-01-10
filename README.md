@@ -5,7 +5,7 @@
 Java/Angular Developer at YouCode | Full Stack Developer | Problem Solver | Entrepreneurial-Minded
   
 [![](https://komarev.com/ghpvc/?username=Radiaidel)](https://github.com/Radiaidel)
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/radia-idelkadi)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/radia-idelkadi-44209b239/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=007EC6&labelColor=555555&logo=gmail&logoColor=f5f7fe)](mailto:idelkadiradia@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
   
 </div>
